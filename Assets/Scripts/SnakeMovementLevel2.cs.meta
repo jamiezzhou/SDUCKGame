@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c79ea9801eaa047818d39cd2a01d5dc2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TailPrefab: {fileID: 6530641361240076603, guid: f99ecf6bd3790498daeeb79237c1e6dc, type: 3}
+  - ApplePrefab: {fileID: 5699938458123548079, guid: 16841ad6a1b00424ca0afcbc5da25ca0, type: 3}
+  - Log1: {instanceID: 0}
+  - Log2: {instanceID: 0}
+  - crunch: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - gameWin: {instanceID: 0}
+  - countText: {instanceID: 0}
+  - winTextObject: {instanceID: 0}
+  - loseTextObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
